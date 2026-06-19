@@ -55,7 +55,7 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 ![Expo App](https://icon.icepanel.io/Technology/svg/Android.svg=250x250)
 
 ### 🐳 Arquitectura Docker completa
-![Docker Architecture](https://www.svgrepo.com/show/331370/docker.svg=225px)
+![Docker Architecture](https://www.svgrepo.com/show/331370/docker.svg=225x225)
 
 ---
 
