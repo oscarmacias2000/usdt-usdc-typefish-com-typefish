@@ -1,5 +1,5 @@
 ###typefish.com
-# **<img width="431" height="167" alt="image" src="https://github.com/user-attachments/assets/1dd55ad7-82a8-47e9-b981-e07a9675060d" />**
+<img width="431" height="167" alt="image" src="https://github.com/user-attachments/assets/1dd55ad7-82a8-47e9-b981-e07a9675060d" />
 
 # **<img src="https://www.svgrepo.com/show/367256/usdt.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/428625/usdc-usd-coin.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/303146/ethereum-logo.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/428637/tron-crypto-coin.svg" width="64" height="64"/>**
 Stablecoin Platform - Plataforma de Stablecoins con IA Local /typefish.com 
