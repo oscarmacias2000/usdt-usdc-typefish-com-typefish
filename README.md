@@ -1,7 +1,7 @@
 # usdt/usdc typefish.com/typefish
 
-# **<img src="https://www.svgrepo.com/show/367256/usdt.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/428625/usdc-usd-coin.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/303146/ethereum-logo.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/428637/tron-crypto-coin.svg" width="64" height="64"/> 
-Stablecoin Platform - Plataforma de Stablecoins con IA Local** /typefish.com 
+# **<img src="https://www.svgrepo.com/show/367256/usdt.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/428625/usdc-usd-coin.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/303146/ethereum-logo.svg" width="64" height="64"/> <img src="https://www.svgrepo.com/show/428637/tron-crypto-coin.svg" width="64" height="64"/>**
+Stablecoin Platform - Plataforma de Stablecoins con IA Local /typefish.com 
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Docker](https://img.shields.io/badge/docker-✓-2496ED?logo=docker)](https://www.docker.com/)
