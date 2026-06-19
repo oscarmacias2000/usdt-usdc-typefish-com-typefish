@@ -57,7 +57,7 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 ### 🐳 Arquitectura Docker completa
 <img src="https://www.svgrepo.com/show/331370/docker.svg" width="80" height="80" alt="Docker Architecture" />
 
-
+---
 ### services to client
 etherum/ERC20
 tron/TRC
@@ -65,8 +65,6 @@ usdt/usdc Transferencias
 Polygon/scan tokens and network
 Futures /MES/!MNQ CME 
 news 
-
-
 
 ----
 ## 🏗️ Arquitectura del Sistema
