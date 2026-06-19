@@ -85,6 +85,7 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 - **Ollama** - Servidor de modelos locales
 - **DeepSeek R1:14B** - Modelo de lenguaje (14GB)
 - **Open WebUI** - Interfaz web para IA
+- **deepseek-v4-flash - DeepSeek-V4-Flash is a preview of the DeepSeek-V4 series, a Mixture-of-Experts model with 284B total parameters and 13B activated, built for efficient reasoning across a 1M-token context window.
 
 ### Infraestructura
 - **Docker** + **Docker Compose** - Contenerización
