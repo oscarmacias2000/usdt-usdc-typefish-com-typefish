@@ -1,6 +1,6 @@
 # API_web
 
-# 🪙 Stablecoin Platform - Plataforma de Stablecoins con IA Local
+# **<img src="https://www.svgrepo.com/show/367256/usdt.svg" width="64" height="64"/> + Stablecoin Platform - Plataforma de Stablecoins con IA Local**
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Docker](https://img.shields.io/badge/docker-✓-2496ED?logo=docker)](https://www.docker.com/)
