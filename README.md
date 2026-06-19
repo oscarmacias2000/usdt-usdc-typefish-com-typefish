@@ -52,7 +52,7 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 ![DeepSeek Demo](https://www.neolo.com/blog/que-es-deepseek-para-que-se-usa-y-como-instalarlo.php)
 
 ### 📱 Frontend Expo - App Multiplataforma
-![Expo App](https://icon.icepanel.io/Technology/svg/Android.svg)
+![Expo App](https://icon.icepanel.io/Technology/svg/Android.svg){: width="64" height="64"}
 
 ### 🐳 Arquitectura Docker completa
 ![Docker Architecture](https://www.svgrepo.com/show/331370/docker.svg)
