@@ -59,7 +59,7 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 
 ---
 ### services to client
-- **etherum/ERC20
+- **etherum/ERC20** +
 - **tron/TRC
 - **usdt/usdc Transferencias
 - **Polygon/scan tokens and network
