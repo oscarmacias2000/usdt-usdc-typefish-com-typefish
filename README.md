@@ -48,10 +48,9 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 ### Open WebUI - Interfaz Principal de IA
 ![Open WebUI Dashboard](https://github.com/open-webui/open-webui/raw/main/demo.png)
 
-### **DeepSeek R1 14B en acción** <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/deepseek-logo-icon.png" width="64" height="64" alt="DeepSeek R1 14B en accion"/>
+### **DeepSeek R1 14B en acción** + <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/deepseek-logo-icon.png" width="64" height="64" alt="DeepSeek R1 14B en accion"/>
 
-### Frontend Expo - App Multiplataforma
-<img src="https://icon.icepanel.io/Technology/svg/Android.svg" width="64" height="64" alt="Expo App" />
+### **Frontend Expo - App Multiplataforma** + <img src="https://icon.icepanel.io/Technology/svg/Android.svg" width="64" height="64" alt="Expo App" />
 
 ### Arquitectura Docker completa
 <img src="https://www.svgrepo.com/show/331370/docker.svg" width="80" height="80" alt="Docker Architecture" />
