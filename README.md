@@ -49,7 +49,7 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 ![Open WebUI Dashboard](https://github.com/open-webui/open-webui/raw/main/demo.png)
 
 ### 🤖 DeepSeek R1 14B en acción
-<img src="https://www.neolo.com/blog/que-es-deepseek-para-que-se-usa-y-como-instalarlo.php" width="64" height="64" alt="DeepSeek R1 14B en accion"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-deepseek-icon-svg-download-png-14603577.png?f=webp&w=256" width="64" height="64" alt="DeepSeek R1 14B en accion"/>
 
 ### 📱 Frontend Expo - App Multiplataforma
 <img src="https://icon.icepanel.io/Technology/svg/Android.svg" width="64" height="64" alt="Expo App" />
