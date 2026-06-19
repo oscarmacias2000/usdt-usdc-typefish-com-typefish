@@ -49,7 +49,7 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 ![Open WebUI Dashboard](https://github.com/open-webui/open-webui/raw/main/demo.png)
 
 ### 🤖 DeepSeek R1 14B en acción
-![DeepSeek Demo](https://www.neolo.com/blog/que-es-deepseek-para-que-se-usa-y-como-instalarlo.php)
+<img src="https://www.neolo.com/blog/que-es-deepseek-para-que-se-usa-y-como-instalarlo.php" width="64" height="64" alt="DeepSeek R1 14B en accion"/>
 
 ### 📱 Frontend Expo - App Multiplataforma
 <img src="https://icon.icepanel.io/Technology/svg/Android.svg" width="64" height="64" alt="Expo App" />
@@ -57,13 +57,19 @@ Plataforma completa para gestión de stablecoins con inteligencia artificial loc
 ### 🐳 Arquitectura Docker completa
 <img src="https://www.svgrepo.com/show/331370/docker.svg" width="80" height="80" alt="Docker Architecture" />
 
+
+### services to client
+etherum/ERC20
+tron/TRC
+usdt/usdc Transferencias
+Polygon/scan tokens and network
+Futures /MES/!MNQ CME 
+news 
+
+
+
 ----
 ## 🏗️ Arquitectura del Sistema
-
-
-
-
-
 
 ## 🛠️ Tecnologías
 
@@ -105,6 +111,4 @@ npm install -g expo-cli
 
 # Git
 git --version
-
-
 
