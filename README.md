@@ -1,4 +1,4 @@
-# API_web
+# usdt/usdc typefish.com/typefish
 
 # **<img src="https://www.svgrepo.com/show/367256/usdt.svg" width="64" height="64"/> + Stablecoin Platform - Plataforma de Stablecoins con IA Local**
 
